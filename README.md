@@ -115,14 +115,3 @@ Version 2.0.0 - April 10th, 2023:
 * New: keyboard shortcuts to control the addon. The shortcuts are listed in the settings menu or appear when you move the mouse over the UI buttons
 * New: an option to avoid breaking down sentences with commas or other punctuation marks such as colons and semicolons
 * Fixed: vocal commands such as the stop and pause words wouldn't always work because the speech recognition would add a dot at the end
-
-For older change logs, please check the commit messages: https://github.com/C-Nedelcu/talk-to-chatgpt/commits/main
-
-# Donations
-
-Thanks for reading all the way down. Are you enjoying Talk-To-ChatGPT and want me to continue improving it? You can help by making a donation to the project. Please click the Donate button to proceed.
-
-[<img alt="paypal" height="80" src="https://edunext.com.sg/paypal.png" />](https://www.paypal.com/donate/?business=BZ43BM7XSSKKW&no_recurring=0&item_name=Are+you+enjoying+Talk-To-ChatGPT?+If+so%2C+consider+making+a+donation+to+keep+the+project+going%2C+and+I%27ll+continue+improving+it%21&currency_code=EUR)
-
-
-    
